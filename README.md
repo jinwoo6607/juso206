@@ -17,4 +17,6 @@
 -네번째질문
 버튼의 색깔을 보기쉽게 바꾸고 싶어 색깔을 보기쉽게 만들어줘
 글자가안보여 글자도 보기편하게 만들어줘
+
+
 <img width="299" alt="스크린샷 2024-10-07 164140" src="https://github.com/user-attachments/assets/de96e766-d70d-444f-908e-c9865e7417f4">
